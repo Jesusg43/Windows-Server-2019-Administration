@@ -1,1 +1,2 @@
-Documentation on how to setup Windows Server 2019 in VirtualBox for homelabbing
+# Documentation on how to setup Windows Server 2019 in VirtualBox for homelabbing
+## Diagram
